@@ -2937,7 +2937,7 @@ dependencies = [
 
 [[package]]
 name = "holochain-kangaroo"
-version = "0.0.0"
+version = "0.0.1"
 dependencies = [
  "either",
  "futures",
