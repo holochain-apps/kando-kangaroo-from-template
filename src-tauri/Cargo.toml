@@ -1,6 +1,6 @@
 [package]
 name = "holochain-kangaroo" # KanDo
-version = "0.0.1" # KanDo -- Choose wisely, see "Note on Versioning" in README
+version = "0.0.2" # KanDo -- Choose wisely, see "Note on Versioning" in README
 description = "A Holochain App for KanBan boards"
 authors = [""]
 license = ""
